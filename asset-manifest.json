@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tik_tak_tok/static/css/main.b5f79a6e.css",
-    "main.js": "/tik_tak_tok/static/js/main.cdc48fb5.js",
-    "index.html": "/tik_tak_tok/index.html",
-    "main.b5f79a6e.css.map": "/tik_tak_tok/static/css/main.b5f79a6e.css.map",
-    "main.cdc48fb5.js.map": "/tik_tak_tok/static/js/main.cdc48fb5.js.map"
+    "main.css": "/tik-tak-game/static/css/main.b5f79a6e.css",
+    "main.js": "/tik-tak-game/static/js/main.cdc48fb5.js",
+    "index.html": "/tik-tak-game/index.html",
+    "main.b5f79a6e.css.map": "/tik-tak-game/static/css/main.b5f79a6e.css.map",
+    "main.cdc48fb5.js.map": "/tik-tak-game/static/js/main.cdc48fb5.js.map"
   },
   "entrypoints": [
     "static/css/main.b5f79a6e.css",
