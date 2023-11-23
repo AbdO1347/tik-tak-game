@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/tik_tak_tok/static/css/main.b5f79a6e.css",
+    "main.js": "/github.io/tik_tak_tok/static/js/main.cdc48fb5.js",
+    "index.html": "/github.io/tik_tak_tok/index.html",
+    "main.b5f79a6e.css.map": "/github.io/tik_tak_tok/static/css/main.b5f79a6e.css.map",
+    "main.cdc48fb5.js.map": "/github.io/tik_tak_tok/static/js/main.cdc48fb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f79a6e.css",
+    "static/js/main.cdc48fb5.js"
+  ]
+}
